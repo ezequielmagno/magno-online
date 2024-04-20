@@ -57,6 +57,10 @@ footer {
   left: 0;  
 }
 
+footer a {
+  margin: 8px;
+}
+
 p {
   margin: 8px;
 }
