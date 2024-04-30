@@ -66,11 +66,11 @@ p {
 }
 
 a {
-  color: #0072C3;
+  color: #fff;
 }
 
 a:hover {
-  color: #fff;
+  color: #33B1FF;
 }
   
   /* Responsive */
